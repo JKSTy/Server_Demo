@@ -22,6 +22,15 @@ class ViewController: UIViewController {
 
     func initialSettings() {
         print("Hi")
+        
+    }
+    
+    func getSumOfTwoNumbers() {
+        let x = 20,y = 50
+        let z = 55
+        var xPlusY = x + y
+        print("xPlusY: \(xPlusY)")
+        
     }
 }
 
