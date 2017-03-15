@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     func initialSettings() {
-        
+        print("Hi")
     }
 }
 
